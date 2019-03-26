@@ -1,8 +1,11 @@
-tableextension 50950 CMT_SampleDataExt extends Customer
+tableextension 50950 CMT_SampleDataExt extends CMT_SampleData
 {
     fields
     {
-        // Add changes to table fields here
+        field(100;InputDate;Date)
+        {
+            
+        }
     }
     
     var
