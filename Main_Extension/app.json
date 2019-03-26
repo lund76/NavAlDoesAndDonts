@@ -1,0 +1,23 @@
+{
+  "id": "46b143f6-b8b6-465d-9e84-cde2e74cd7bc",
+  "name": "Acme Main Extension",
+  "publisher": "Acme Inc",
+  "brief": "Main Extension",
+  "description": "Main Extension",
+  "version": "0.9.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50900,
+    "to": 50910
+  },
+  "runtime": "2.0"
+}

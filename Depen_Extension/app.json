@@ -1,0 +1,30 @@
+{
+  "id": "e48e5d46-08b1-460d-a3a8-7d3495d0d880",
+  "name": "Acme Dependent Extension",
+  "publisher": "Acme Inc",
+  "brief": "Depen_Extension",
+  "description": "Depen_Extension",
+  "version": "0.9.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "46b143f6-b8b6-465d-9e84-cde2e74cd7bc",
+      "name": "Acme Main Extension",
+      "publisher": "Acme Inc",
+      "version": "0.9.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50950,
+    "to": 50960
+  },
+  "runtime": "2.0"
+}
